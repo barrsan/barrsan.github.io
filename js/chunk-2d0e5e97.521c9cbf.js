@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5e97"],{9703:function(t,e,n){"use strict";n.r(e);var o=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("app-article-text",[n("h1",[t._v("Page not found")])])],1)},a=[],c=(n("cadf"),n("551c"),n("097d"),n("9a03")),u={name:"NotFound",components:{AppArticleText:c["a"]}},l=u,s=n("2877"),i=Object(s["a"])(l,o,a,!1,null,null,null);i.options.__file="NotFound.vue";e["default"]=i.exports}}]);
-//# sourceMappingURL=chunk-2d0e5e97.521c9cbf.js.map
