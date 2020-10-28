@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://sketchninjas.art/</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/works</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/blog</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/contact</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/works/fujifilm</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/works/marvel-comics</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/works/beats</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/works/coca-cola</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/works/adidas</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/works/porsche-russia</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/blog/importance-of-logo-design-for-online-branding</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/blog/top-reasons-to-update-your-website</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sketchninjas.art/blog/how-to-build-an-mvp</loc>
+  <lastmod>2020-10-28T11:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
